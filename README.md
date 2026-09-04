@@ -8,6 +8,6 @@ AI Data Scientist building safety infrastructure for AI-assisted workflows.
 - Agentic safeguards — permission architectures, deterministic scripts, and hook systems that constrain AI agent behaviour
 - Mechanistic interpretability (circuit tracing, sparse autoencoders)
 
-**Writing:** [panolof.substack.com](https://panolof.substack.com)
+**Writing:** [observatoryledger.com](https://observatoryledger.com)
 
 BEng Electronic Engineering (Cum Laude), University of Pretoria. Python, TypeScript, SQL.
