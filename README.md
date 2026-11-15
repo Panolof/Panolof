@@ -1,6 +1,6 @@
 ### Pano Pouroullis
 
-AI Data Scientist building safety infrastructure for AI-assisted workflows.
+Independent AI safety researcher, building safety infrastructure for AI-assisted workflows. Previously AI Data Scientist at Sendient.
 
 **What I work on:**
 - Evaluation pipelines for frontier model behaviour (Inspect AI, multi-turn, cross-condition)
